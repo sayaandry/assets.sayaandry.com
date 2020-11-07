@@ -1,5 +1,5 @@
 # assets.sayaandry.com
 
-## Halo 👋
+Halo 👋
 
 Ini adalah subdomain dari [sayaandry.com](http://sayaandry.com).
